@@ -25,7 +25,7 @@ public class ApiTest {
                         "response[0].District",Matchers.equalTo(1),
                         "response[0].Address", Matchers.hasItem("190103, Санкт-Петербург, Рижский пр., д. 21, литер  "))
         ;
-
+//sdsd
     }
 
 
